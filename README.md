@@ -1,8 +1,12 @@
 Personal Information
+
 This project was developed by Iradukunda Sympatique Carlos, ID: 25196
 
 Project Description
+
 Technical Perspective
+
+
 The Blood Donation Management System is a web application built using Spring Boot for the backend and React for the frontend. The app incorporates Spring Security for authentication and role-based access control, ensuring users are directed to appropriate pages based on their credentials. It features:
 
 User Accounts: Users can sign up and maintain profiles with their identification and personal details.
@@ -44,8 +48,9 @@ Spring Security ensures role-based access, enhancing both security and usability
 
  Below are screenshots showcasing some of the application's pages
 
- 
-![Screenshot 2024-12-06 125056](https://github.com/user-attachments/assets/d3b493bf-5a2c-4b
+ ![Screenshot 2024-12-06 125056](https://github.com/user-attachments/assets/aeb59999-032f-4f40-bc33-55131b27030a)
+
+
 ![Screenshot 2024-12-06 125126](https://github.com/user-attachments/assets/65943f9c-17cf-4a4f-b8f6-e78b76adc2ce)
 ![Screenshot 2024-12-06 125235](https://github.com/user-attachments/assets/4414dbf9-46d1-45a3-ae67-016e549eee7b)
 
